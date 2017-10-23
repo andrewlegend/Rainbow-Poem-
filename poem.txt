@@ -1,4 +1,4 @@
-The Rainbow 
+The Rainbow Colors 
 
 Purple 
 Pink 
@@ -7,5 +7,9 @@ Blue
 Green
 Yellow 
 Red 
+
+This is a list of colors 
+
+by Andrew Ye 
 
 This is a edited version of the file 
